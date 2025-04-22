@@ -1,4 +1,4 @@
-const Review = require("../models/Review");
+const Review = require("../models/review");
 
 // Add a review
 const addReview = async (req, res) => {
